@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.810.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatService", "ChatService\ChatService.csproj", "{1224BFEE-B8B1-48B5-AA84-8CAE71949752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{7BFF0A6B-4ACD-4737-8CC9-C4843E374797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{CF817F55-4364-419E-B262-C9D8647C1C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1224BFEE-B8B1-48B5-AA84-8CAE71949752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1224BFEE-B8B1-48B5-AA84-8CAE71949752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1224BFEE-B8B1-48B5-AA84-8CAE71949752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFF0A6B-4ACD-4737-8CC9-C4843E374797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFF0A6B-4ACD-4737-8CC9-C4843E374797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFF0A6B-4ACD-4737-8CC9-C4843E374797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFF0A6B-4ACD-4737-8CC9-C4843E374797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF817F55-4364-419E-B262-C9D8647C1C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF817F55-4364-419E-B262-C9D8647C1C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF817F55-4364-419E-B262-C9D8647C1C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF817F55-4364-419E-B262-C9D8647C1C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
