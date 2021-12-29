@@ -1,0 +1,15 @@
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/Application.deps.json
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/Application.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/Application.pdb
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/Persistence.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.csproj.AssemblyReference.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Application/obj/Debug/net5.0/Application.pdb

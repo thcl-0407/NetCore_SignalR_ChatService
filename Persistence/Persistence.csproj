@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Accounts\" />
+    <None Remove="Abstractions\" />
+    <None Remove="DbContext\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Accounts\" />
+    <Folder Include="Abstractions\" />
+    <Folder Include="DbContext\" />
+  </ItemGroup>
+</Project>

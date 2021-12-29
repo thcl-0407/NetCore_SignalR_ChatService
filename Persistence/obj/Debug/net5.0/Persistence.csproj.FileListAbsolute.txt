@@ -1,0 +1,12 @@
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/thcloc/Downloads/Projects/NewImposter/ChatService/Persistence/obj/Debug/net5.0/Persistence.pdb
